@@ -22,15 +22,17 @@ Amazonian with my Associate's Degree in Networking and Cyber Defense. Actively s
 #
 📖 Biography       
 
-After graduating High school I worked for my local Boy Scouts of America as their Directory of Ecology specializing in environmental and nature related teachings.Where I got trained as a Leave No Trace Trainer and a Tread Lightly Trainer for prevention of environmental impact! I also enrolled in my local community college to major in Environmental Science with the goal to become an Ecologist for Major Companies and do to Ecological Impact Serves for potential building sites. After 2 semesters I switched majors to Cyber Security and System Administration, after realizing while I loved and still do love science and nature,I just enjoyed learning about computers slightly more. 
+After graduating High school I worked for my local Boy Scouts of America as their Directory of Ecology specializing in environmental and nature related teachings.
+Where I got trained as a Leave No Trace Trainer and a Tread Lightly Trainer for prevention of environmental impact! I also enrolled in my local community college to major in Environmental Science with the goal to become an Ecologist for Major Companies and do to Ecological Impact Serves for potential building sites. 
+After 2 semesters I switched majors to Cyber Security and System Administration, after realizing while I loved and still do love science and nature,I just enjoyed learning about computers slightly more. 
 
 #
 🏆 Achievements
 
-BSA Eagle Scout Award - August 2016
-FCC Amateur Ham License (Technician) - January 2019
-Comptia IT Fundamental+ - September 2021  
-AWS Cloud Practitioner - November 2022 
-Associate of Applied Science in Networking/Cyber Defense - May 2024
+- BSA Eagle Scout Award - August 2016
+- FCC Amateur Ham License (Technician) - January 2019
+- Comptia IT Fundamental+ - September 2021  
+- AWS Cloud Practitioner - November 2022 
+- Associate of Applied Science in Networking/Cyber Defense - May 2024
 
 #
